@@ -19,6 +19,7 @@ sys.path[0:0] = [lib_path,
                  os.path.join(lib_path, 'poster-0.4-py2.6.egg'),
                  os.path.join(lib_path, 'rsa_x509_pem-0.1.0.egg')]
 
+
 import xbmcutils
 import modules
 import myplayer
